@@ -1,0 +1,6 @@
+{
+	"label":	"Shutdown",
+	"icon":	"",
+	"launch":	"launch.sh",
+	"description":	"custom Shutdown"
+}
