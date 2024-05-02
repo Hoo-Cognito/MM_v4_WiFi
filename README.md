@@ -7,13 +7,13 @@ Currently WIP, based on/ and including work by @e1000 and the Onion Team.
 Navigate to...Apps/Tweaks/system/ 
 And change settings to as follows...
   
-  Turn low battery warning -OFF-; 
-  Low batt.: save and exit -OFF-;
+  - Turn low battery warning -OFF-; 
+  - Low batt.: save and exit -OFF-;
   
   Apps/Tweaks/system/Startup
-  Auto-resume last game -OFF-
+  - Auto-resume last game -OFF-
 
   Lastly Settings/
-  Sleep timer -Off-
+  - Sleep timer -Off-
 
   And you're all good to go.
