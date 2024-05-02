@@ -2,7 +2,7 @@
 Endeavour to streamline WiFi experience on Miyoo Mini v4
 Currently WIP, based on/ and including work by @e1000 and the Onion Team.
 
-- Settings Setup
+1. Settings Setup
 
 Navigate to...Apps/Tweaks/system/ 
 And change settings to as follows...
@@ -16,4 +16,7 @@ And change settings to as follows...
   Lastly Settings/
   - Sleep timer -Off-
 
-  And you're all good to go.
+2. Unzip release to root.
+
+
+  And you're all good to go. 
