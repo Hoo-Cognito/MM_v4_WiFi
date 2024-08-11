@@ -1,3 +1,7 @@
+Important notes
+
+Summer 2024 MM v4 screen is currently reported incompatible. Previous v4 iterations requires no lcdinit rotate, v2 does.
+
 # MM_v4_WiFi
 Endeavour to streamline WiFi experience on Miyoo Mini v4
 Currently WIP, based on/ and including work by @e1000 and the Onion Team.
